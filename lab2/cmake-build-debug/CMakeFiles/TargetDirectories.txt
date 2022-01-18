@@ -1,0 +1,3 @@
+C:/Users/egork/Desktop/work/da/solution/cmake-build-debug/CMakeFiles/solution.dir
+C:/Users/egork/Desktop/work/da/solution/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/egork/Desktop/work/da/solution/cmake-build-debug/CMakeFiles/rebuild_cache.dir
